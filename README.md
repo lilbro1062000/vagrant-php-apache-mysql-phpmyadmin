@@ -1,12 +1,11 @@
 vagrant-php-apache-mysql-phpmyadmin
 ===================================
 READ ME..... "then remove me"
-
-vagrant (development environment )(install vagrant first http://www.vagrantup.com/)
+Requires Vagrant ((install vagrant first http://www.vagrantup.com/)) and Virtualbox https://www.virtualbox.org/wiki/Downloads
+vagrant (development environment )
+	
 a.run this in command prompt
   vagrant box add ubuntu13.10d http://cloud-images.ubuntu.com/vagrant/saucy/current/saucy-server-cloudimg-amd64-vagrant-disk1.box
-  
-  
   
   latest ubuntu system 
 
